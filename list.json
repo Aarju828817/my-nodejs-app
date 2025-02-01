@@ -1,0 +1,1819 @@
+{
+   "gameList": [
+      {
+         "GameId": 1,
+         "name": {
+            "en-US": "Royal Fishing",
+            "zh-CN": "钱龙捕鱼",
+            "zh-TW": "錢龍捕魚"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 2,
+         "name": {
+            "en-US": "Chin Shi Huang",
+            "zh-CN": "秦皇传说",
+            "zh-TW": "秦皇傳說"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 4,
+         "name": {
+            "en-US": "God Of Martial",
+            "zh-CN": "关云长",
+            "zh-TW": "關雲長"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 5,
+         "name": {
+            "en-US": "Hot Chilli",
+            "zh-CN": "火热辣椒",
+            "zh-TW": "火熱辣椒"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 6,
+         "name": {
+            "en-US": "Fortune Tree",
+            "zh-CN": "发财树",
+            "zh-TW": "發財樹"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 9,
+         "name": {
+            "en-US": "War Of Dragons",
+            "zh-CN": "舞龙争霸",
+            "zh-TW": "舞龍爭霸"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 10,
+         "name": {
+            "en-US": "Gem Party",
+            "zh-CN": "宝石派对",
+            "zh-TW": "寶石派對"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 13,
+         "name": {
+            "en-US": "Lucky Ball",
+            "zh-CN": "球好運",
+            "zh-TW": "球好運"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 14,
+         "name": {
+            "en-US": "Hyper Burst",
+            "zh-CN": "超爆",
+            "zh-TW": "超爆"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 16,
+         "name": {
+            "en-US": "Jungle King",
+            "zh-CN": "叢林之王",
+            "zh-TW": "叢林之王"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 17,
+         "name": {
+            "en-US": "Shanghai Beauty",
+            "zh-CN": "上海甜心",
+            "zh-TW": "上海甜心"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 18,
+         "name": {
+            "en-US": "Rock Beauty",
+            "zh-CN": "搖滾甜心",
+            "zh-TW": "搖滾甜心"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 20,
+         "name": {
+            "en-US": "Bombing Fishing",
+            "zh-CN": "炸鱼来了",
+            "zh-TW": "炸魚來了"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 21,
+         "name": {
+            "en-US": "Fa Fa Fa",
+            "zh-CN": "极速发发发",
+            "zh-TW": "極速發發發"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 23,
+         "name": {
+            "en-US": "Candy Baby",
+            "zh-CN": "糖果宝贝",
+            "zh-TW": "糖果寶貝"
+         },
+         "GameCategoryId": 1,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 26,
+         "name": {
+            "en-US": "Hawaii Beauty",
+            "zh-CN": "海島甜心",
+            "zh-TW": "海島甜心"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 27,
+         "name": {
+            "en-US": "SevenSevenSeven",
+            "zh-CN": "极速777",
+            "zh-TW": "極速777"
+         },
+         "GameCategoryId": 1,
+         "JP": true,
+         "Freespin": true
+      },
+      {
+         "GameId": 30,
+         "name": {
+            "en-US": "Bubble Beauty",
+            "zh-CN": "人魚甜心",
+            "zh-TW": "人魚甜心"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 32,
+         "name": {
+            "en-US": "Jack Pot Fishing",
+            "zh-CN": "极速彩金捕鱼",
+            "zh-TW": "極速彩金捕魚"
+         },
+         "GameCategoryId": 5,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 33,
+         "name": {
+            "en-US": "FortunePig",
+            "zh-CN": "极速猪来了",
+            "zh-TW": "極速豬來了"
+         },
+         "GameCategoryId": 1,
+         "JP": true,
+         "Freespin": true
+      },
+      {
+         "GameId": 35,
+         "name": {
+            "en-US": "Crazy777",
+            "zh-CN": "疯狂777",
+            "zh-TW": "瘋狂777"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 36,
+         "name": {
+            "en-US": "Bao boon chin",
+            "zh-CN": "包青天",
+            "zh-TW": "包青天"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 37,
+         "name": {
+            "en-US": "Night City",
+            "zh-CN": "夜上海",
+            "zh-TW": "夜上海"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 38,
+         "name": {
+            "en-US": "Fengshen",
+            "zh-CN": "封神",
+            "zh-TW": "封神"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 40,
+         "name": {
+            "en-US": "Crazy FaFaFa",
+            "zh-CN": "疯狂一路发",
+            "zh-TW": "瘋狂一路發"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 42,
+         "name": {
+            "en-US": "Dinosaur Tycoon",
+            "zh-CN": "猎龙大亨",
+            "zh-TW": "獵龍大亨"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 43,
+         "name": {
+            "en-US": "XiYangYang",
+            "zh-CN": "喜洋洋",
+            "zh-TW": "喜洋洋"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 44,
+         "name": {
+            "en-US": "Diamond Party",
+            "zh-CN": "鑽石派對",
+            "zh-TW": "鑽石派對"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 45,
+         "name": {
+            "en-US": "Golden Bank",
+            "zh-CN": "疯狂抢金乐",
+            "zh-TW": "瘋狂搶金樂"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 46,
+         "name": {
+            "en-US": "Dragon Treasure",
+            "zh-CN": "神龙夺宝",
+            "zh-TW": "神龍奪寶"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 47,
+         "name": {
+            "en-US": "Charge Buffalo",
+            "zh-CN": "冲锋野牛",
+            "zh-TW": "衝鋒野牛"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 48,
+         "name": {
+            "en-US": "Lucky Goldbricks",
+            "zh-CN": "霸金砖",
+            "zh-TW": "霸金磚"
+         },
+         "GameCategoryId": 1,
+         "JP": true,
+         "Freespin": true
+      },
+      {
+         "GameId": 49,
+         "name": {
+            "en-US": "Super Ace",
+            "zh-CN": "超級王牌",
+            "zh-TW": "超級王牌"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 51,
+         "name": {
+            "en-US": "Money Coming",
+            "zh-CN": "疯狂钱来也",
+            "zh-TW": "瘋狂錢來也"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 58,
+         "name": {
+            "en-US": "Golden Queen",
+            "zh-CN": "黃金艷后",
+            "zh-TW": "黃金艷后"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 60,
+         "name": {
+            "en-US": "Dragon Fortune",
+            "zh-CN": "飞龙宝藏",
+            "zh-TW": "飛龍寶藏"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 61,
+         "name": {
+            "en-US": "Dragon & Tiger",
+            "zh-CN": "龍虎競猜",
+            "zh-TW": "龍虎競猜"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 62,
+         "name": {
+            "en-US": "Dice",
+            "zh-CN": "骰子競猜",
+            "zh-TW": "骰子競猜"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 63,
+         "name": {
+            "en-US": "7 UP-DOWN",
+            "zh-CN": "七上下競猜",
+            "zh-TW": "七上下競猜"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 64,
+         "name": {
+            "en-US": "Fairness Games",
+            "zh-CN": "競猜大廳",
+            "zh-TW": "競猜大廳"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 66,
+         "name": {
+            "en-US": "LuckyNumber",
+            "zh-CN": "數字競猜",
+            "zh-TW": "數字競猜"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 67,
+         "name": {
+            "en-US": "Monkey Party",
+            "zh-CN": "猴子派对",
+            "zh-TW": "猴子派對"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 71,
+         "name": {
+            "en-US": "Boom Legend",
+            "zh-CN": "夺宝传奇",
+            "zh-TW": "奪寶傳奇"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 72,
+         "name": {
+            "en-US": "TeenPatti",
+            "zh-CN": "TeenPatti",
+            "zh-TW": "TeenPatti"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 74,
+         "name": {
+            "en-US": "Mega Fishing",
+            "zh-CN": "王者捕鱼",
+            "zh-TW": "王者捕魚"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 75,
+         "name": {
+            "en-US": "AK47",
+            "zh-CN": "AK47",
+            "zh-TW": "AK47"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 76,
+         "name": {
+            "en-US": "Party Night",
+            "zh-CN": "嗨翻夜",
+            "zh-TW": "嗨翻夜"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 77,
+         "name": {
+            "en-US": "Boxing King",
+            "zh-CN": "拳王",
+            "zh-TW": "拳王"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 78,
+         "name": {
+            "en-US": "Secret Treasure",
+            "zh-CN": "秘境夺宝",
+            "zh-TW": "秘境奪寶"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 79,
+         "name": {
+            "en-US": "Andar Bahar",
+            "zh-CN": "Andar Bahar",
+            "zh-TW": "Andar Bahar"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 80,
+         "name": {
+            "en-US": "lobby",
+            "zh-CN": "遊戲大廳",
+            "zh-TW": "遊戲大廳"
+         },
+         "GameCategoryId": 3,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 82,
+         "name": {
+            "en-US": "Happy Fishing",
+            "zh-CN": "開心捕魚",
+            "zh-TW": "開心捕魚"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 85,
+         "name": {
+            "en-US": "Pharaoh Treasure",
+            "zh-CN": "法老祕宝",
+            "zh-TW": "法老祕寶"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 87,
+         "name": {
+            "en-US": "Book of Gold",
+            "zh-CN": "黄金之书",
+            "zh-TW": "黃金之書"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 91,
+         "name": {
+            "en-US": "Lucky Coming",
+            "zh-CN": "象財神",
+            "zh-TW": "象財神"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 92,
+         "name": {
+            "en-US": "Crazy Hunter",
+            "zh-CN": "疯狂炮手",
+            "zh-TW": "瘋狂砲手"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 94,
+         "name": {
+            "en-US": "Rummy",
+            "zh-CN": "Rummy",
+            "zh-TW": "Rummy"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 100,
+         "name": {
+            "en-US": "Super Rich",
+            "zh-CN": "真有錢",
+            "zh-TW": "真有錢"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 101,
+         "name": {
+            "en-US": "Medusa",
+            "zh-CN": "梅杜莎",
+            "zh-TW": "梅杜莎"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 102,
+         "name": {
+            "en-US": "Roma X",
+            "zh-CN": "罗马X",
+            "zh-TW": "羅馬X"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 103,
+         "name": {
+            "en-US": "Golden Empire",
+            "zh-CN": "黄金帝国",
+            "zh-TW": "黃金帝國"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 106,
+         "name": {
+            "en-US": "TWIN WINS",
+            "zh-CN": "TWIN WINS",
+            "zh-TW": "TWIN WINS"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 108,
+         "name": {
+            "en-US": "MagicLamp",
+            "zh-CN": "阿拉丁",
+            "zh-TW": "阿拉丁"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 109,
+         "name": {
+            "en-US": "Fortune Gems",
+            "zh-CN": "迦羅寶石",
+            "zh-TW": "迦羅寶石"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 110,
+         "name": {
+            "en-US": "Ali Baba",
+            "zh-CN": "阿里巴巴",
+            "zh-TW": "阿里巴巴"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 111,
+         "name": {
+            "en-US": "Number King",
+            "zh-CN": "数字之王",
+            "zh-TW": "數字之王"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 112,
+         "name": {
+            "en-US": "Joumey West M",
+            "zh-CN": "西游争霸M",
+            "zh-TW": "西遊爭霸M"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 113,
+         "name": {
+            "en-US": "Poker King",
+            "zh-CN": " 扑克之王",
+            "zh-TW": "撲克之王"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 114,
+         "name": {
+            "en-US": "European Roulette",
+            "zh-CN": "European Roulette",
+            "zh-TW": "European Roulette"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 115,
+         "name": {
+            "en-US": "Agent Ace",
+            "zh-CN": "王牌特务",
+            "zh-TW": "王牌特務"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 116,
+         "name": {
+            "en-US": "Happy Taxi",
+            "zh-CN": "Happy Taxi",
+            "zh-TW": "快樂計程車"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 118,
+         "name": {
+            "en-US": "Big Small",
+            "zh-CN": "大小竞猜",
+            "zh-TW": "大小競猜"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 119,
+         "name": {
+            "en-US": "All-star Fishing",
+            "zh-CN": "全明星捕魚",
+            "zh-TW": "全明星捕魚"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 122,
+         "name": {
+            "en-US": "iRich Bingo",
+            "zh-CN": "iRich Bingo",
+            "zh-TW": "iRich Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 123,
+         "name": {
+            "en-US": "Dragon & Tiger",
+            "zh-CN": "龍虎鬥",
+            "zh-TW": "龍虎鬥"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 124,
+         "name": {
+            "en-US": "7 UP 7 DOWN",
+            "zh-CN": "7上7下",
+            "zh-TW": "7上7下"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 125,
+         "name": {
+            "en-US": "Sic Bo",
+            "zh-CN": "骰宝",
+            "zh-TW": "骰寶"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 126,
+         "name": {
+            "en-US": "Bone Fortune",
+            "zh-CN": "庆典之月",
+            "zh-TW": "慶典之月"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 127,
+         "name": {
+            "en-US": "CallBreak",
+            "zh-CN": "CallBreak",
+            "zh-TW": "CallBreak"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 128,
+         "name": {
+            "en-US": "Ludo",
+            "zh-CN": "Ludo",
+            "zh-TW": "Ludo"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 130,
+         "name": {
+            "en-US": "Thor X",
+            "zh-CN": "雷神X",
+            "zh-TW": "雷神X"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 132,
+         "name": {
+            "en-US": "Pool Rummy",
+            "zh-CN": "Pool Rummy",
+            "zh-TW": "Poo lRummy"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 134,
+         "name": {
+            "en-US": "Mega Ace",
+            "zh-CN": "无限王牌",
+            "zh-TW": "無限王牌"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 135,
+         "name": {
+            "en-US": "MAYAN EMPIRE",
+            "zh-CN": "玛雅帝国",
+            "zh-TW": "瑪雅帝國"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 136,
+         "name": {
+            "en-US": "Samba",
+            "zh-CN": "森巴嘉年華",
+            "zh-TW": "森巴嘉年華"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 137,
+         "name": {
+            "en-US": "Gold Rush",
+            "zh-CN": "瘋狂淘金",
+            "zh-TW": "瘋狂淘金"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 139,
+         "name": {
+            "en-US": "Fortune Bingo",
+            "zh-CN": "Fortune Bingo",
+            "zh-TW": "Fortune Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 142,
+         "name": {
+            "en-US": "Bonus Hunter",
+            "zh-CN": "賞金獵人",
+            "zh-TW": "賞金獵人"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 143,
+         "name": {
+            "en-US": "Bonus Bingo",
+            "zh-CN": "Bonus Bingo",
+            "zh-TW": "Bonus Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 144,
+         "name": {
+            "en-US": "JILI Caishen",
+            "zh-CN": "吉利財神",
+            "zh-TW": "吉利財神"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 145,
+         "name": {
+            "en-US": "Neko Fortune",
+            "zh-CN": "招财猫",
+            "zh-TW": "招財貓"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 146,
+         "name": {
+            "en-US": "World Cup",
+            "zh-CN": "世界杯",
+            "zh-TW": "世界盃"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 147,
+         "name": {
+            "en-US": "Bingo Empire",
+            "zh-CN": "Bingo Empire",
+            "zh-TW": "Bingo Empire"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 148,
+         "name": {
+            "en-US": "Bingo Carnaval",
+            "zh-CN": "Bingo Carnaval",
+            "zh-TW": "Bingo Carnaval"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 149,
+         "name": {
+            "en-US": "Calaca Bingo",
+            "zh-CN": "Calaca Bingo",
+            "zh-TW": "Calaca Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 150,
+         "name": {
+            "en-US": "Lucky Bingo",
+            "zh-CN": "Lucky Bingo",
+            "zh-TW": "Lucky Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 151,
+         "name": {
+            "en-US": "Super Bingo",
+            "zh-CN": "Super Bingo",
+            "zh-TW": "Super Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 152,
+         "name": {
+            "en-US": "Baccarat",
+            "zh-CN": "百家乐",
+            "zh-TW": "百家樂"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 153,
+         "name": {
+            "en-US": "Crazy Pusher",
+            "zh-CN": "Crazy Pusher",
+            "zh-TW": "Crazy Pusher"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 159,
+         "name": {
+            "en-US": "TeenPatti Joker",
+            "zh-CN": "Teenpatti Joker",
+            "zh-TW": "TeenPatti Joker"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 160,
+         "name": {
+            "en-US": "CallbreakQuick",
+            "zh-CN": "CallbreakQuick",
+            "zh-TW": "CallbreakQuick"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 161,
+         "name": {
+            "en-US": "Teenpatti 20-20",
+            "zh-CN": "Teenpatti 20-20",
+            "zh-TW": "Teenpatti 20-20"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 163,
+         "name": {
+            "en-US": "Ludo Quick",
+            "zh-CN": "Ludo Quick",
+            "zh-TW": "Ludo Quick"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 164,
+         "name": {
+            "en-US": "Pirate Queen",
+            "zh-CN": "海盜女王",
+            "zh-TW": "海盜女王"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 166,
+         "name": {
+            "en-US": "Wild Racer",
+            "zh-CN": "极速狂飙",
+            "zh-TW": "極速狂飆"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 171,
+         "name": {
+            "en-US": "Sin City",
+            "zh-CN": "罪恶都市",
+            "zh-TW": "罪惡都市"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 172,
+         "name": {
+            "en-US": "ELF BINGO",
+            "zh-CN": "爱尔兰精灵",
+            "zh-TW": "愛爾蘭精靈"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 173,
+         "name": {
+            "en-US": "West Hunter Bingo",
+            "zh-CN": "West Hunter Bingo",
+            "zh-TW": "West Hunter Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 174,
+         "name": {
+            "en-US": "Jackpot Bingo",
+            "zh-CN": "Jackpot Bingo",
+            "zh-TW": "Jackpot Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 175,
+         "name": {
+            "en-US": "Tongits",
+            "zh-CN": "Tongits",
+            "zh-TW": "Tongits"
+         },
+         "GameCategoryId": 2,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 176,
+         "name": {
+            "en-US": "Master Tiger",
+            "zh-CN": "功夫虎",
+            "zh-TW": "功夫虎"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 177,
+         "name": {
+            "en-US": "Bingo Adventure",
+            "zh-CN": "Bingo Adventure",
+            "zh-TW": "Bingo Adventure"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 178,
+         "name": {
+            "en-US": "Go Goal Bingo",
+            "zh-CN": "Go Goal Bingo",
+            "zh-TW": "Go Goal Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 179,
+         "name": {
+            "en-US": "Win Drop",
+            "zh-CN": "Win Drop",
+            "zh-TW": "Win Drop"
+         },
+         "GameCategoryId": 8,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 181,
+         "name": {
+            "en-US": "Wild Ace",
+            "zh-CN": "百搭王牌",
+            "zh-TW": "百搭王牌"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 182,
+         "name": {
+            "en-US": "Golden Land",
+            "zh-CN": "黄金秘境",
+            "zh-TW": "黃金秘境"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 183,
+         "name": {
+            "en-US": "Golden Joker",
+            "zh-CN": "黃金小丑",
+            "zh-TW": "黃金小丑"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 191,
+         "name": {
+            "en-US": "Golden Temple",
+            "zh-CN": "黄金神庙",
+            "zh-TW": "黃金神廟"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 193,
+         "name": {
+            "en-US": "Devil Fire",
+            "zh-CN": "恶魔之火",
+            "zh-TW": "惡魔之火"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 195,
+         "name": {
+            "en-US": "Pearls of Bingo",
+            "zh-CN": "Pearls of Bingo",
+            "zh-TW": "Pearls of Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 197,
+         "name": {
+            "en-US": "Color Game",
+            "zh-CN": "Color Game",
+            "zh-TW": "Color Game"
+         },
+         "GameCategoryId": 8,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 198,
+         "name": {
+            "en-US": "Sweet Land",
+            "zh-CN": "糖果乐园",
+            "zh-TW": "糖果樂園"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 199,
+         "name": {
+            "en-US": "Tongits Go",
+            "zh-CN": "Tongits Go",
+            "zh-TW": "Tongits Go"
+         },
+         "GameCategoryId": 2,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 200,
+         "name": {
+            "en-US": "Pappu",
+            "zh-CN": "Pappu",
+            "zh-TW": "Pappu"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 204,
+         "name": {
+            "en-US": "Color Prediction",
+            "zh-CN": "Color Prediction",
+            "zh-TW": "Color Prediction"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 208,
+         "name": {
+            "en-US": "Trial of Phoenix",
+            "zh-CN": "凤凰试炼",
+            "zh-TW": "鳳凰試煉"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 209,
+         "name": {
+            "en-US": "Aztec Priestess",
+            "zh-CN": "帝国女祭司",
+            "zh-TW": "帝國女祭司"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 210,
+         "name": {
+            "en-US": "Poker Lobby",
+            "zh-CN": "Poker Lobby",
+            "zh-TW": "Poker Lobby"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 211,
+         "name": {
+            "en-US": "Pusoy Go",
+            "zh-CN": "Pusoy Go",
+            "zh-TW": "Pusoy Go"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 212,
+         "name": {
+            "en-US": "Dinosaur Tycoon II",
+            "zh-CN": "猎龙大亨2",
+            "zh-TW": "獵龍大亨2"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 214,
+         "name": {
+            "en-US": "King Arthur",
+            "zh-CN": "亚瑟王",
+            "zh-TW": "亞瑟王"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 216,
+         "name": {
+            "en-US": "Candyland Bingo",
+            "zh-CN": "Candyland Bingo",
+            "zh-TW": "Candyland Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 217,
+         "name": {
+            "en-US": "Magic Lamp Bingo",
+            "zh-CN": "Magic Lamp Bingo",
+            "zh-TW": "Magic Lamp Bingo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 219,
+         "name": {
+            "en-US": "Blackjack",
+            "zh-CN": "21點",
+            "zh-TW": "21點"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 220,
+         "name": {
+            "en-US": "Blackjack Lucky Ladies",
+            "zh-CN": "Blackjack Lucky Ladies",
+            "zh-TW": "Blackjack Lucky Ladies"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 221,
+         "name": {
+            "en-US": "MINI FLUSH",
+            "zh-CN": "MINI FLUSH",
+            "zh-TW": "MINI FLUSH"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 223,
+         "name": {
+            "en-US": "Fortune Gems 2",
+            "zh-CN": "迦罗宝石2",
+            "zh-TW": "迦羅寶石2"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 224,
+         "name": {
+            "en-US": "Go Rush",
+            "zh-CN": "Go Rush",
+            "zh-TW": "Go Rush"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 225,
+         "name": {
+            "en-US": "Cricket King 18",
+            "zh-CN": "Cricket King 18",
+            "zh-TW": "Cricket King 18"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 226,
+         "name": {
+            "en-US": "Witches' Night",
+            "zh-CN": "魔女之夜",
+            "zh-TW": "魔女之夜"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 228,
+         "name": {
+            "en-US": "Arena Fighter",
+            "zh-CN": "浴血战士",
+            "zh-TW": "浴血戰士"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 229,
+         "name": {
+            "en-US": "Mines",
+            "zh-CN": "Mines",
+            "zh-TW": "Mines"
+         },
+         "GameCategoryId": 8,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 230,
+         "name": {
+            "en-US": "Cricket SAH 75",
+            "zh-CN": "Cricket SAH 75",
+            "zh-TW": "Cricket SAH 75"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 231,
+         "name": {
+            "en-US": "Caribbean Stud Poker",
+            "zh-CN": "Caribbean Stud Poker",
+            "zh-TW": "Caribbean Stud Poker"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 232,
+         "name": {
+            "en-US": "Tower",
+            "zh-CN": "Tower",
+            "zh-TW": "Tower"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 233,
+         "name": {
+            "en-US": "HILO",
+            "zh-CN": "HILO",
+            "zh-TW": "HILO"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 235,
+         "name": {
+            "en-US": "Limbo",
+            "zh-CN": "Limbo",
+            "zh-TW": "Limbo"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 236,
+         "name": {
+            "en-US": "Wheel",
+            "zh-CN": "Wheel",
+            "zh-TW": "Wheel"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 238,
+         "name": {
+            "en-US": "Bangla Beauty",
+            "zh-CN": "Bangla Beauty",
+            "zh-TW": "Bangla Beauty"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 239,
+         "name": {
+            "en-US": "Dabanggg",
+            "zh-CN": "Dabanggg",
+            "zh-TW": "Dabanggg"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 241,
+         "name": {
+            "en-US": "Keno",
+            "zh-CN": "Keno",
+            "zh-TW": "Keno"
+         },
+         "GameCategoryId": 8,
+         "JP": true,
+         "Freespin": false
+      },
+      {
+         "GameId": 242,
+         "name": {
+            "en-US": "Plinko",
+            "zh-CN": "Plinko",
+            "zh-TW": "Plinko"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 252,
+         "name": {
+            "en-US": "Zeus",
+            "zh-CN": "宙斯",
+            "zh-TW": "宙斯"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 253,
+         "name": {
+            "en-US": "Video Poker",
+            "zh-CN": "Video Poker",
+            "zh-TW": "Video Poker"
+         },
+         "GameCategoryId": 2,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 254,
+         "name": {
+            "en-US": "Mines Gold",
+            "zh-CN": "Mines Gold",
+            "zh-TW": "Mines Gold"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 258,
+         "name": {
+            "en-US": "Devil Fire 2",
+            "zh-CN": "惡魔之火2",
+            "zh-TW": "惡魔之火2"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 259,
+         "name": {
+            "en-US": "Charge Buffalo ASCENT",
+            "zh-CN": "冲锋野牛 ASCENT",
+            "zh-TW": "衝鋒野牛 ASCENT"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 261,
+         "name": {
+            "en-US": "Crash Bonus",
+            "zh-CN": "Crash Bonus",
+            "zh-TW": "Crash Bonus"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 262,
+         "name": {
+            "en-US": "Speed Baccarat",
+            "zh-CN": "Speed Baccarat",
+            "zh-TW": "Speed Baccarat"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 289,
+         "name": {
+            "en-US": "Ocean King Jackpot",
+            "zh-CN": "Ocean King Jackpot",
+            "zh-TW": "Ocean King Jackpot"
+         },
+         "GameCategoryId": 5,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 297,
+         "name": {
+            "en-US": "Jogo Do Bicho",
+            "zh-CN": "Jogo Do Bicho",
+            "zh-TW": "Jogo Do Bicho"
+         },
+         "GameCategoryId": 8,
+         "JP": false,
+         "Freespin": false
+      },
+      {
+         "GameId": 300,
+         "name": {
+            "en-US": "Fortune Gems 3",
+            "zh-CN": "迦罗宝石3",
+            "zh-TW": "迦羅寶石3"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 301,
+         "name": {
+            "en-US": "Jackpot Joker",
+            "zh-CN": "彩金小丑",
+            "zh-TW": "彩金小丑"
+         },
+         "GameCategoryId": 1,
+         "JP": true,
+         "Freespin": true
+      },
+      {
+         "GameId": 303,
+         "name": {
+            "en-US": "Fortune Monkey",
+            "zh-CN": "叢林派對",
+            "zh-TW": "叢林派對"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      },
+      {
+         "GameId": 399,
+         "name": {
+            "en-US": "3 Coin Treasures",
+            "zh-CN": "三币瑞龙",
+            "zh-TW": "三幣瑞龍"
+         },
+         "GameCategoryId": 1,
+         "JP": false,
+         "Freespin": true
+      }
+   ]
+}
